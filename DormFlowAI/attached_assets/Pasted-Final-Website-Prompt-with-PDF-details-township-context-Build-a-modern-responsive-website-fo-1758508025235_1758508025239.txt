@@ -1,0 +1,119 @@
+Final Website Prompt (with PDF details + township context):
+
+*"Build a modern, responsive website for a South African township bulk-buying and logistics platform based on the following problem statement and solution.
+
+The website should:
+
+Content & Structure
+
+Problem Section:
+
+Explain that in South African townships, most local markets and spaza shops are foreign-owned.
+
+Local entrepreneurs struggle to compete due to lack of affordable bulk purchasing, supplier networks, and efficient logistics.
+
+This results in higher stock costs, smaller profit margins, and slower business growth.
+
+Solution Section:
+
+Present the platform as a digital solution that empowers local entrepreneurs to:
+
+Pool orders and purchase goods in bulk at lower prices.
+
+Use group buying features to negotiate discounts.
+
+Share delivery scheduling to reduce transport costs.
+
+Access an info page for government funding and networking events.
+
+Join a marketplace for township businesses to share supplier info and deals.
+
+Commercialisation Section:
+
+Highlight a Pilot Township Launch (e.g., Soweto, Khayelitsha, Umlazi, Alexandra) to test pricing models, logistics, and bulk ordering.
+
+Show Community-Based Marketing using WhatsApp groups, word-of-mouth, and partnerships with local spaza shops and community market days.
+
+Add Supplier Partnerships with wholesalers, farmers, and local manufacturers to secure discounted rates.
+
+Target Audience Section:
+
+Wholesalers
+
+Farmers
+
+Local entrepreneur shop owners
+
+Small township-based supermarkets
+
+Community cooperatives
+
+Competitors Section:
+
+Undocumented spaza shop owners (operating informally).
+
+Expensive local markets.
+
+Uniqueness Section:
+
+Educational support for entrepreneurs.
+
+Reduces dependency on undocumented-owned businesses.
+
+Promotes collaboration instead of competition.
+
+Benefits include:
+
+Lower costs & higher margins for entrepreneurs.
+
+Wider customer base for suppliers.
+
+Job creation & stronger local economy for communities.
+
+Security Section (CIA principles):
+
+Secure Sign-Up & Login (email, phone, or social login with OTP).
+
+User Authentication & Access Control.
+
+Optional Multi-Factor Authentication.
+
+Database encryption at rest.
+
+Local Data Minimization.
+
+Timeline Section:
+
+Phase 1–2: Discovery & Planning (Research, define MVP, wireframes).
+
+Phase 3: Design & Prototype (UX/UI design, prototype testing).
+
+Phase 4–6: MVP Development (core app build, payments, inventory).
+
+Phase 7–8: Testing & Pilot (alpha & beta testing, supplier onboarding).
+
+Phase 9–10: Full Deployment (public launch, marketing, support).
+
+Phase 11–12: Growth & Expansion (scale, add features, partnerships).
+
+Design & Features
+
+Use a South African township theme with imagery of local shops, spaza stores, and entrepreneurs.
+
+Hero section with a bold CTA: “Empower Township Entrepreneurs – Join the Movement”.
+
+Icons/graphics for features (bulk buying, delivery, funding, marketplace).
+
+Mobile-first design (since township users mostly use smartphones).
+
+Clean, professional look with clear navigation.
+
+Placeholder text for township case studies, success stories, and contact details.
+
+Technical
+
+Generate in HTML/CSS/JS (or React if possible).
+
+Ensure responsiveness and accessibility.
+
+Use placeholder images and text where needed."*
